@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606626062536",
+    "firebase_url": "https://withlogin-84f9f.firebaseio.com",
+    "project_id": "withlogin-84f9f",
+    "storage_bucket": "withlogin-84f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606626062536:android:d6ed668d60dbf5d32245fd",
+        "android_client_info": {
+          "package_name": "com.googlewithlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606626062536-00u4mdefnnavepsa93h53f4qd0toqjg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7Kj0dC1Z63MQOUlYJFncs9MQszRQ3Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606626062536-00u4mdefnnavepsa93h53f4qd0toqjg4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606626062536-1sbi8b995riot8kfpdkjcfi8qjjgr683.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "reactjs.native.GoogleWithLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

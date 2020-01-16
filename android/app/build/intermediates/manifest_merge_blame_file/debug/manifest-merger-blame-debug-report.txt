@@ -1,0 +1,207 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.googlewithlogin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:24:5-79
+13-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:24:22-76
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:25:5-68
+14-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:25:22-65
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+15-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:26:22-107
+16    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+16-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
+16-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:26:22-79
+17
+18    <application
+18-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:6:5-25:19
+19        android:name="com.googlewithlogin.MainApplication"
+19-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:7:7-38
+20        android:allowBackup="false"
+20-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:11:7-34
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6ebd315ab470d997b2cd255048b32130/core-1.0.1/AndroidManifest.xml:22:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:9:7-41
+24        android:label="@string/app_name"
+24-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:8:7-39
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:10:7-52
+26        android:theme="@style/AppTheme"
+26-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:12:7-38
+27        android:usesCleartextTraffic="true" >
+27-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/debug/AndroidManifest.xml:7:18-53
+28        <activity
+28-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:13:7-23:18
+29            android:name="com.googlewithlogin.MainActivity"
+29-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:14:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+30-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:17:9-79
+31            android:label="@string/app_name"
+31-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:16:9-41
+32            android:screenOrientation="portrait"
+32-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:15:9-45
+33            android:windowSoftInputMode="adjustResize" >
+33-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:18:9-51
+34            <intent-filter>
+34-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:19:9-22:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:20:13-65
+35-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:20:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:21:13-73
+37-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:21:23-70
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+40-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:24:7-84
+40-->/Users/sejal/Desktop/Mahesh/GoogleWithLogin/android/app/src/main/AndroidManifest.xml:24:17-81
+41        <activity
+41-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+42            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+42-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+43            android:excludeFromRecents="true"
+43-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+44            android:exported="false"
+44-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+45            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+45-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+46        <!--
+47            Service handling Google Sign-In user revocation. For apps that do not integrate with
+48            Google Sign-In, this service will never be started.
+49        -->
+50        <service
+50-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+51            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+51-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+52            android:exported="true"
+52-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+53            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+53-->[com.google.android.gms:play-services-auth:16.0.1] /Users/sejal/.gradle/caches/transforms-2/files-2.1/6afe453d59e27abda5931ae1f70ae43c/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+54
+55        <receiver
+55-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:29:9-33:20
+56            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+56-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:30:13-85
+57            android:enabled="true"
+57-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:31:13-35
+58            android:exported="false" >
+58-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:32:13-37
+59        </receiver>
+60        <receiver
+60-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:34:9-42:20
+61            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+61-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:35:13-100
+62            android:enabled="true"
+62-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:36:13-35
+63            android:exported="true"
+63-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:37:13-36
+64            android:permission="android.permission.INSTALL_PACKAGES" >
+64-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:38:13-69
+65            <intent-filter>
+65-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:39:13-41:29
+66                <action android:name="com.android.vending.INSTALL_REFERRER" />
+66-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:40:17-79
+66-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:40:25-76
+67            </intent-filter>
+68        </receiver>
+69
+70        <service
+70-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:44:9-47:40
+71            android:name="com.google.android.gms.measurement.AppMeasurementService"
+71-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:45:13-84
+72            android:enabled="true"
+72-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:46:13-35
+73            android:exported="false" />
+73-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:47:13-37
+74        <service
+74-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:48:9-52:72
+75            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+75-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:49:13-87
+76            android:enabled="true"
+76-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:50:13-35
+77            android:exported="false"
+77-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:51:13-37
+78            android:permission="android.permission.BIND_JOB_SERVICE" />
+78-->[com.google.android.gms:play-services-measurement:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/553dc858b03452294a2999a934aab7fa/play-services-measurement-17.2.0/AndroidManifest.xml:52:13-69
+79        <service
+79-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/e6f4647f64cbb3d76c735437ce7a3079/play-services-measurement-api-17.2.0/AndroidManifest.xml:27:9-33:19
+80            android:name="com.google.firebase.components.ComponentDiscoveryService"
+80-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/e6f4647f64cbb3d76c735437ce7a3079/play-services-measurement-api-17.2.0/AndroidManifest.xml:28:13-84
+81            android:exported="false" >
+81-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/e6f4647f64cbb3d76c735437ce7a3079/play-services-measurement-api-17.2.0/AndroidManifest.xml:29:13-37
+82            <meta-data
+82-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/e6f4647f64cbb3d76c735437ce7a3079/play-services-measurement-api-17.2.0/AndroidManifest.xml:30:13-32:85
+83                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+83-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/e6f4647f64cbb3d76c735437ce7a3079/play-services-measurement-api-17.2.0/AndroidManifest.xml:31:17-139
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.android.gms:play-services-measurement-api:17.2.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/e6f4647f64cbb3d76c735437ce7a3079/play-services-measurement-api-17.2.0/AndroidManifest.xml:32:17-82
+85            <meta-data
+85-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+86                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+86-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+88        </service>
+89
+90        <receiver
+90-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+91            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+91-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+92            android:exported="true"
+92-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+93            android:permission="com.google.android.c2dm.permission.SEND" >
+93-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+94            <intent-filter>
+94-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+95                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+95-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
+95-->[com.google.firebase:firebase-iid:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/7947f7b1a899f1f55a2a3879521c55f3/firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+96            </intent-filter>
+97        </receiver>
+98
+99        <provider
+99-->[com.google.firebase:firebase-common:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/81bb96298d473d732626c8c8471eb8d3/firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+100            android:name="com.google.firebase.provider.FirebaseInitProvider"
+100-->[com.google.firebase:firebase-common:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/81bb96298d473d732626c8c8471eb8d3/firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+101            android:authorities="com.googlewithlogin.firebaseinitprovider"
+101-->[com.google.firebase:firebase-common:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/81bb96298d473d732626c8c8471eb8d3/firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+102            android:exported="false"
+102-->[com.google.firebase:firebase-common:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/81bb96298d473d732626c8c8471eb8d3/firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+103            android:initOrder="100" />
+103-->[com.google.firebase:firebase-common:19.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/81bb96298d473d732626c8c8471eb8d3/firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+104
+105        <activity
+105-->[com.google.android.gms:play-services-base:17.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/fb5e118a429a00bf5ea255115c7172ec/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+106            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+106-->[com.google.android.gms:play-services-base:17.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/fb5e118a429a00bf5ea255115c7172ec/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+107            android:exported="false"
+107-->[com.google.android.gms:play-services-base:17.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/fb5e118a429a00bf5ea255115c7172ec/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+108            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+108-->[com.google.android.gms:play-services-base:17.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/fb5e118a429a00bf5ea255115c7172ec/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+109
+110        <meta-data
+110-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/05331c73ffecffd22557e231a9000159/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+111            android:name="com.google.android.gms.version"
+111-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/05331c73ffecffd22557e231a9000159/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+112            android:value="@integer/google_play_services_version" />
+112-->[com.google.android.gms:play-services-basement:17.0.0] /Users/sejal/.gradle/caches/transforms-2/files-2.1/05331c73ffecffd22557e231a9000159/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+113    </application>
+114
+115</manifest>

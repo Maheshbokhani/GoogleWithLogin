@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.m \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Target\ Support\ Files/GTMAppAuth/GTMAppAuth-prefix.pch \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/AppAuthCore.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDAuthState.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDAuthStateChangeDelegate.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDAuthStateErrorDelegate.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationRequest.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgentRequest.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDResponseTypes.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDScopes.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationResponse.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDAuthorizationService.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDError.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDErrorUtilities.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgent.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDExternalUserAgentSession.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDGrantTypes.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDIDToken.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDRegistrationRequest.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDRegistrationResponse.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDScopeUtilities.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDServiceConfiguration.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDServiceDiscovery.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDTokenRequest.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDTokenResponse.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDTokenUtilities.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/AppAuth/OIDURLSessionProvider.h

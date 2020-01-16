@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/node_modules/react-native/React/CoreModules/RCTPlatform.mm \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Target\ Support\ Files/React-CoreModules/React-CoreModules-prefix.pch \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/node_modules/react-native/React/CoreModules/RCTPlatform.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTConvertHelpers.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/Optional.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/Portability.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/CPortability.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/Traits.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/Utility.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/RCTTypeSafety/RCTTypeSafety/RCTTypedModuleConstants.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/ReactCommon/ReactCommon/RCTTurboModule.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/ReactCommon/ReactCommon/JSCallInvoker.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/ReactCommon/ReactCommon/TurboModule.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Public/React-Core/React/RCTVersion.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/node_modules/react-native/React/CoreModules/CoreModulesPlugins.h

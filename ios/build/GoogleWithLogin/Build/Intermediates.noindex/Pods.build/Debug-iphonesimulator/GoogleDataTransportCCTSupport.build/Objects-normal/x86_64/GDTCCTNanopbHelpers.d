@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/GDTCCTNanopbHelpers.m \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTNanopbHelpers.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORStoredEvent.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORDataFuture.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCOREvent.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCOREventDataObject.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/nanopb/pb.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORConsoleLogger.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/nanopb/pb_decode.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/nanopb/pb_encode.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/GoogleDataTransportCCTSupport/GoogleDataTransportCCTSupport/GDTCCTLibrary/Private/GDTCCTPrioritizer.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORClock.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORPrioritizer.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORLifecycle.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORPlatform.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORUploadPackage.h \
+  /Users/sejal/Desktop/Mahesh/GoogleWithLogin/ios/Pods/Headers/Private/GoogleDataTransport/GDTCORTargets.h

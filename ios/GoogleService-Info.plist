@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606626062536-1sbi8b995riot8kfpdkjcfi8qjjgr683.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606626062536-1sbi8b995riot8kfpdkjcfi8qjjgr683</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCE8NZY90h2R4i9i_6J_xxYil5jBPuPcak</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606626062536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>reactjs.native.GoogleWithLogin</string>
+	<key>PROJECT_ID</key>
+	<string>withlogin-84f9f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>withlogin-84f9f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606626062536:ios:e65e0b07de0735b52245fd</string>
+	<key>DATABASE_URL</key>
+	<string>https://withlogin-84f9f.firebaseio.com</string>
+</dict>
+</plist>
